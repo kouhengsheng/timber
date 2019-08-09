@@ -16,3 +16,4 @@ jar {
     attributes('Lint-Registry-v2': 'timber.lint.TimberIssueRegistry')
   }
 }
+

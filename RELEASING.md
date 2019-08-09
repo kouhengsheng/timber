@@ -1,6 +1,7 @@
 Releasing
 ========
 
+
  1. Change the version in `gradle.properties` to a non-SNAPSHOT version.
  2. Update the `CHANGELOG.md` for the impending release.
  3. Update the `README.md` with the new version.

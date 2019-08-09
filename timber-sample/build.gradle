@@ -28,3 +28,4 @@ dependencies {
   implementation deps.butterknife.runtime
   annotationProcessor deps.butterknife.compiler
 }
+

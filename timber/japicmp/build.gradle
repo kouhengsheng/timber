@@ -36,3 +36,4 @@ check.dependsOn(japicmp)
 
 def build = tasks.create('build')
 build.dependsOn(check)
+

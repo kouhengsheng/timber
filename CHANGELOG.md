@@ -4,6 +4,7 @@ Change Log
 Version 4.7.1 *(2018-06-28)*
 ----------------------------
 
+
  * Fix: Redundant argument lint check now works correctly on Kotlin sources.
 
 

@@ -5,6 +5,7 @@ This is a logger with a small, extensible API which provides utility on top of A
 
 I copy this class into all the little apps I make. I'm tired of doing it. Now it's a library.
 
+
 Behavior is added through `Tree` instances. You can install an instance by calling `Timber.plant`.
 Installation of `Tree`s should be done as early as possible. The `onCreate` of your application is
 the most logical choice.
